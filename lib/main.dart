@@ -16,6 +16,10 @@ void main() async {
 // thêm nè
 // thêm nữa nè
 
+// sửa label mật khẩu, textBox mật khẩu nè
+// sửa nè 
+// sửa nữa nè
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
