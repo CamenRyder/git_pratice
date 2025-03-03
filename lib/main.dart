@@ -12,6 +12,9 @@ void main() async {
   // await workerManager.init();
   runApp(MyApp());
 }
+// thêm label mật khẩu, textBox và txtMauKhau
+// thêm nè
+// thêm nữa nè
 
 class MyApp extends StatelessWidget {
   @override
